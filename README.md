@@ -22,6 +22,10 @@ VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) 
 
 Open `HelloRaspberryPi.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2017, .NET Framework 4.7.1
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2018
