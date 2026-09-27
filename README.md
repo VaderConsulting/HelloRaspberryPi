@@ -28,6 +28,7 @@ Open `HelloRaspberryPi.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `HelloRaspberryPi`.
 - **Assembly copyright:** Copyright ©  2018
 
 ## License
