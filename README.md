@@ -1,6 +1,6 @@
 # HelloRaspberryPi
 
-VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) and `WinFormsCSharp` (C#), whose `frmMain` Hello button sets `lblHello` and `txtHello` to "Hello World" and shows a MessageBox. The VB form title is "Hello Raspberry Pi" (centered); the C# form still uses the default Form1 title. Open `HelloRaspberryPi.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) and `WinFormsCSharp` (C#), whose `frmMain` Hello button sets `lblHello` and `txtHello` to "Hello World" and shows a MessageBox. The VB form title is "Hello Raspberry Pi" (centered); the C# form still uses the default Form1 title. Open `HelloRaspberryPi.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 **Source last updated:** 2018-07-11  
 **Language:** C#, VB.NET  
@@ -9,7 +9,7 @@ VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) 
 
 ## What it is
 
-VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) and `WinFormsCSharp` (C#), whose `frmMain` Hello button sets `lblHello` and `txtHello` to "Hello World" and shows a MessageBox. The VB form title is "Hello Raspberry Pi" (centered); the C# form still uses the default Form1 title. Open `HelloRaspberryPi.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2017 (.NET 4.7.1) working copy with two WinExe projects, `WinForms` (VB.NET) and `WinFormsCSharp` (C#), whose `frmMain` Hello button sets `lblHello` and `txtHello` to "Hello World" and shows a MessageBox. The VB form title is "Hello Raspberry Pi" (centered); the C# form still uses the default Form1 title. Open `HelloRaspberryPi.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 ## Solution structure
 
